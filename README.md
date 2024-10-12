@@ -102,9 +102,3 @@ Here’s the **README** with specific sections for the scripts used in your proj
 ## **Project Goal**
 The primary objective of this project is to reduce toxicity in social media environments by automatically detecting and deleting harmful comments in real-time.
 
-## **License**
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-This format ensures that each script is well-documented, making it easier for users to understand their role in the project!
